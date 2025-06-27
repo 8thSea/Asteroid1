@@ -1,0 +1,5 @@
+{
+    "seed": 12345,
+    "asteroidDensity": 0.75,
+    "rareCometChance": 0.05
+}
