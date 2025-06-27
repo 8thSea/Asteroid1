@@ -1,0 +1,22 @@
+{
+    "ShaderGraphImporter": {
+        "SerializedVersion": "12.0.0"
+    },
+    "GraphSettings": {
+        "_GlobalScale": 1,
+        "_PreviewMode": 1
+    },
+    "Properties": [
+        {
+            "Name": "GlowColor",
+            "Type": "Color",
+            "Default": [0, 1, 1, 1]
+        },
+        {
+            "Name": "GlowIntensity",
+            "Type": "Float",
+            "Default": 1
+        }
+    ]
+    // TODO: build shader graph for neon edge glow
+}

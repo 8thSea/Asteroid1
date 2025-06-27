@@ -1,0 +1,30 @@
+.
+BuildSettings.md
+CNAME
+WebGL_Optimization.md
+README.md
+docs
+  Build
+    README_PLACEHOLDER.md
+  index.html
+404.html
+Assets
+  Scripts
+    ProceduralAsteroidFieldGenerator.cs
+    ShipController.cs
+    UpgradeSystem.cs
+    ResourceManager.cs
+    MiningLaser.cs
+  Prefabs
+    UI
+      LCARSButton.cs
+      LCARSCanvas.prefab
+      LCARSButton.prefab
+  Tests
+    AsteroidGeneratorTests.cs
+  NeonEdgeGlow.shadergraph
+ExampleSeed.json
+.github
+  workflows
+    unity-webgl-ghpages.yml
+TREE.txt
